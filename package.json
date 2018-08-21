@@ -1,16 +1,16 @@
 {
   "name": "oi-pessoal",
   "version": "1.0.0",
-  "description": "Nada demais, só fala oi pra todo mundo",
+  "description": "Faz nada demais",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/danicuki/oi-pessoal.git"
+    "url": "git+https://github.com/danicuki/oi-pessoal.git"
   },
-  "author": "Daniel Cukier",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/danicuki/oi-pessoal/issues"
